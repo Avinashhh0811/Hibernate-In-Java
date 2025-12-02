@@ -8,3 +8,13 @@
 
 **Steps to execute Hibernate codes:**<br><br>
 1) Create java project -> add all hibernate jar files and mysql connector jar file to project (right click on project -> open build path -> configure build path -> go to libraries -> click on classpath -> click on add external jars -> and select -> apply and continue)
+   <br><br>HBN/
+ ├─ src/
+ │   └─ pack/
+ │        ├─ employee.java
+ │        ├─ employee.hbm.xml
+ │        ├─ testmain.java
+ │
+ ├─ hibernate.cfg.xml
+ └─ lib/
+
