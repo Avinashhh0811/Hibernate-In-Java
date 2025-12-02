@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="pack.Employee" table="Emp1">
+
+        <id name="empid">
+            <generator class="assigned"/>
+        </id>
+
+        <property name="empname"/>
+        <property name="salary"/>
+
+        <component name="addr" class="pack.Address">
+            <property name="city"/>
+            <property name="state"/>
+            <property name="country"/>
+        </component>
+
+    </class>
+
+</hibernate-mapping>
