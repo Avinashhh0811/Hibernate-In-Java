@@ -1,2 +1,1 @@
-Hibernate is a powerful Object–Relational Mapping (ORM) framework in Java.
-It lets you work with objects in Java while Hibernate secretly converts those operations into SQL queries behind the curtain.
+**Hibernate :**Hibernate is a Java ORM framework that connects your Java objects to database tables, letting you perform database operations using simple Java code instead of SQL.
