@@ -1,4 +1,4 @@
-# Hibernate In Java
+# Hibernate In Java -
 
 **Hibernate :** Hibernate is a Java ORM framework that connects your Java objects to database tables, letting you perform database operations using simple Java code instead of SQL.<br><br><img width="461" height="272" alt="image" src="https://github.com/user-attachments/assets/6e2274b8-6270-4efa-b07b-6602d3a25734" />
 
