@@ -1,7 +1,7 @@
 # Hibernate In Java -
 **Steps to execute Hibernate codes:**<br><br>
 1) Create java project -> add all hibernate jar files and mysql connector jar file to project (right click on project -> open build path -> configure build path -> go to libraries -> click on classpath -> click on add external jars -> and select -> apply and continue)
-   <br><br>HBN/
+   <br><br>
 
 **Hibernate :** Hibernate is a Java ORM framework that connects your Java objects to database tables, letting you perform database operations using simple Java code instead of SQL.<br><br><img width="461" height="272" alt="image" src="https://github.com/user-attachments/assets/6e2274b8-6270-4efa-b07b-6602d3a25734" />
 
