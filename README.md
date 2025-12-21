@@ -8,7 +8,7 @@
 **Component Mapping :** Component Mapping in Hibernate lets you embed a non-entity class inside an entity. Its fields are stored as columns in the same table, avoiding separate tables and simplifying the design.<br><br><img width="408" height="304" alt="image" src="https://github.com/user-attachments/assets/3e84737f-9ce3-4a9f-96c8-1af072dfa45c" />
 
 **Hibernate annotations :** Hibernate annotations describe how Java objects should be stored in database tables, replacing XML and simplifying ORM mapping.<br><br><img width="454" height="271" alt="image" src="https://github.com/user-attachments/assets/5e7f72c3-62e0-4c90-8800-169a9b7436eb" />
-<br><br> it is important thing in hibernate in the java
+
 
 
 
